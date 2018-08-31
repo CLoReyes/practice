@@ -16,9 +16,9 @@ public class Hellogirl
 	{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("What is your name?");
-		String name =sc.nextLine();
+		String nombre =sc.nextLine();
 		
-		System.out.println("Hello "  + name + "!");		
+		System.out.println("Hello "  + nombre + "!");		
 	}
 
 
